@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/gwenn/gosqlite"
+	. "github.com/cmrajan/gosqlite"
 )
 
 func panicOnError(b *testing.B, err error) {

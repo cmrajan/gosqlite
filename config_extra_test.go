@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/gwenn/gosqlite"
+	. "github.com/cmrajan/gosqlite"
 )
 
 func init() {

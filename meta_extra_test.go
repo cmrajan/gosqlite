@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"github.com/bmizerany/assert"
-	. "github.com/gwenn/gosqlite"
+	. "github.com/cmrajan/gosqlite"
 )
 
 func TestColumn(t *testing.T) {

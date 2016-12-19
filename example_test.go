@@ -9,7 +9,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/gwenn/gosqlite"
+	"github.com/cmrajan/gosqlite"
 )
 
 func check(err error) {

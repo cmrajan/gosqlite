@@ -5,8 +5,9 @@
 package sqlite_test
 
 import (
-	. "github.com/gwenn/gosqlite"
 	"testing"
+
+	. "github.com/cmrajan/gosqlite"
 )
 
 func checkCacheSize(t *testing.T, db *Conn, expectedSize, expectedMaxSize int) {

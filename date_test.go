@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/bmizerany/assert"
-	. "github.com/gwenn/gosqlite"
+	. "github.com/cmrajan/gosqlite"
 )
 
 func TestJulianDay(t *testing.T) {

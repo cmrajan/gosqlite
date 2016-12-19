@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/gwenn/gosqlite"
+	. "github.com/cmrajan/gosqlite"
 )
 
 func commitHook(d interface{}) bool {

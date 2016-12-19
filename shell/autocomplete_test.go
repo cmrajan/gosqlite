@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/bmizerany/assert"
-	"github.com/gwenn/gosqlite"
+	"github.com/cmrajan/gosqlite"
 	. "github.com/gwenn/gosqlite/shell"
 )
 

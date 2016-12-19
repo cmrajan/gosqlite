@@ -14,7 +14,7 @@ import (
 	"testing"
 
 	"github.com/bmizerany/assert"
-	. "github.com/gwenn/gosqlite"
+	. "github.com/cmrajan/gosqlite"
 )
 
 func checkNoError(t *testing.T, err error, format string) {

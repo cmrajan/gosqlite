@@ -20,7 +20,7 @@ import (
 	"text/tabwriter"
 	"unicode"
 
-	"github.com/gwenn/gosqlite"
+	"github.com/cmrajan/gosqlite"
 	"github.com/gwenn/gosqlite/shell"
 	"github.com/gwenn/liner"
 )

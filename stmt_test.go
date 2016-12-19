@@ -16,7 +16,7 @@ import (
 	"unsafe"
 
 	"github.com/bmizerany/assert"
-	. "github.com/gwenn/gosqlite"
+	. "github.com/cmrajan/gosqlite"
 )
 
 func checkFinalize(s *Stmt, t *testing.T) {

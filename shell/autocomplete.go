@@ -7,7 +7,7 @@ package shell
 import (
 	"strings"
 
-	"github.com/gwenn/gosqlite"
+	"github.com/cmrajan/gosqlite"
 )
 
 type pendingAction struct {
